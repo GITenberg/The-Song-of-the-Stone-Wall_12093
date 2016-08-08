@@ -1,0 +1,32 @@
+_repo: The-Song-of-the-Stone-Wall_12093
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Keller, Helen
+    alias: Keller, Helen Adams
+    birthdate: 1880
+    deathdate: 1968
+    gutenberg_agent_id: '895'
+    url: http://www.gutenberg.org/2009/agents/895
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Keller
+description: Blind, deaf and unable to communicate from a young age, Helen Keller
+  was eventually taught to read, write and speak with the help of an extraordinary
+  teacher. This lead to a flowering of creativity and imagination in Keller, who went
+  on to produce dozens of memoirs, essays, letters, and stories. The Song of the Stone
+  Wall is a book-length poem that details Keller's participation in the construction
+  of a wall on the grounds of her home that made it possible for her to roam farther
+  safely.
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12093'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcc 'PS'
+- GITenberg
+title: The Song of the Stone Wall
+url: http://www.gutenberg.org/ebooks/12093
