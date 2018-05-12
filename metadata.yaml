@@ -1,5 +1,8 @@
 _repo: The-Song-of-the-Stone-Wall_12093
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Keller, Helen
@@ -16,6 +19,8 @@ description: Blind, deaf and unable to communicate from a young age, Helen Kelle
   Wall is a book-length poem that details Keller's participation in the construction
   of a wall on the grounds of her home that made it possible for her to roam farther
   safely.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12093#The-Song-of-the-Stone-Wall
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
